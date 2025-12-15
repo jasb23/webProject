@@ -17,3 +17,5 @@
 - index.html : web home
 - welcome.html : web de benvinguda
 - productos.html : pàgina amb els productes oferits.
+
+**@Copyright: jasb**
