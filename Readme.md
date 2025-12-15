@@ -4,11 +4,11 @@
 
 **ESTRUCTURA DE LA WEB:**
 
-- /html: escriu ací que trobarem en aquest directori 
+- /html: escriu ací què trobarem en aquest directori 
 
-- /css: escriu ací que trobarem en aquest directori
+- /css: escriu ací què trobarem en aquest directori
 
-- /js: escriu ací que trobarem en aquest directori
+- /js: escriu ací què trobarem en aquest directori
 
 - Readme.md: arxiu on s'explica en què consisteix aquest projecte web
 
@@ -16,3 +16,4 @@
 
 - index.html : web home
 - welcome.html : web de benvinguda
+- productos.html : pàgina amb els productes oferits.
